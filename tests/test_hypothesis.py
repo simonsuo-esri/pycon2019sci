@@ -12,4 +12,5 @@ from pycontest.utils import momentum, E_kin
        mass2  = st.floats(min_value=.1, max_value=1e3))
 def test_energy_hypothesis(mass1, mass2):
 #dummy
+#dummy2
     pass
